@@ -1,3 +1,9 @@
+@media all and (max-width: 768px) {
+  .sidebarOption > h2 {
+    display: none;
+  }
+}
+
 .sidebarOption {
   display: flex;
   align-items: center;
