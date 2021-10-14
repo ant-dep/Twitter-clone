@@ -1,13 +1,8 @@
-@media all and (max-width: 768px) {
-  .sidebarOption > h2 {
-    display: none;
-  }
-}
-
 .sidebarOption {
   display: flex;
   align-items: center;
   cursor: pointer;
+  margin: 1em 0;
 }
 
 .sidebarOption:hover {

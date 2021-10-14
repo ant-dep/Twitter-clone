@@ -1,9 +1,9 @@
 .feed {
   display: flex;
   flex-direction: column;
-  flex: 0.4;
   border-right: 1px solid var(--twitter-background);
-  min-width: fit-content;
+  max-width: fit-content;
+  flex: 0.5;
   overflow-y: scroll;
 }
 
