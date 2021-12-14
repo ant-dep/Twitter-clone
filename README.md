@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e4/Twitter_Logo_Blue.svg/640px-Twitter_Logo_Blue.svg.png" width="300" alt="Twitter logo">  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_wordmark.png&f=1&nofb=1" width="200" alt="React.js logo">
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e4/Twitter_Logo_Blue.svg/640px-Twitter_Logo_Blue.svg.png" width="300" alt="Twitter logo">         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_wordmark.png&f=1&nofb=1" width="200" alt="React.js logo">
 
 <hr class="line"></br>
 
